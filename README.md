@@ -1,1 +1,1 @@
-# autopaymentbot
+# mynn
